@@ -1,0 +1,15 @@
+{
+  "name": "citysquares_categories",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint index.js",
+    "test": "npm run eslint"
+  },
+  "author": "Camilo Montoya",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.5.0"
+  }
+}
